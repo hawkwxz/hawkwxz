@@ -1,16 +1,25 @@
-## Hi there 👋
+# uhm... Olá, me chamo Hawk
 
-<!--
-**hawkwxz/hawkwxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    **'Programming student'**
 
-Here are some ideas to get you started:
+Olá.
+  Programar, pra mim, é simples. Gosto da lógica, da precisão e do silêncio do código funcionando, Gosto da lógica por trás das linguagens, da sensação de construir algo a partir do nada, Prefiro observar, entender, depois criar. Aprendo no meu tempo. Quando algo me interessa, mergulho fundo, Não me preocupo em mostrar tudo que sei. Prefiro deixar o código falar por mim.
+Aqui você vai ver um pouco disso — sem pressa, sem alarde, só o essencial.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=hawkwxz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawkwxz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
