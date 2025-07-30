@@ -1,6 +1,6 @@
 # uhm... Olá, me chamo Hawk
 
-    **'Programming student'**
+    print("Programming student")
 
 <br>Olá.<br>
   Programar, pra mim, é simples. Gosto da lógica, da precisão e do silêncio do código funcionando, Gosto da lógica por trás das linguagens, da sensação de construir algo a partir do nada, Prefiro observar, entender, depois criar. Aprendo no meu tempo. Quando algo me interessa, mergulho fundo, Não me preocupo em mostrar tudo que sei. Prefiro deixar o código falar por mim.
