@@ -1,4 +1,4 @@
-# uhm... Olá, me chamo Hawk
+#Olá, me chamo Hawk
 
     print("Programming student")
 
